@@ -4,85 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5904dac-18c6-42fd-a4d4-5397f3182b02" name="Changes" comment="indexl">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/animate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/default-skin.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/icomoon.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/jquery-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/jquery.fancybox.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/jquery.mCustomScrollbar.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/meanmenu.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/nice-select.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/slick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/about-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/banner-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/banner-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/blog-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/contact-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/customer-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/icon-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/icon-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/icon-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/icon-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/icon-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/icon-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/img-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/img-10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/img-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/img-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/img-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/img-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/img-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/img-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/img-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/img-9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/news-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/quick-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/service-img1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/service-img2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/images/service-img3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/jquery-3.0.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/jquery.mCustomScrollbar.concat.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/jquery.validate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/modernizer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/js/slider-setting.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atema Free Website Template - Free-CSS.com/html/what-we.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="c5904dac-18c6-42fd-a4d4-5397f3182b02" name="Changes" comment="indexl" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743423318449</updated>
-      <workItem from="1743423319593" duration="1254000" />
+      <workItem from="1743423319593" duration="1432000" />
     </task>
     <task id="LOCAL-00001" summary="indexl">
       <option name="closed" value="true" />
@@ -179,7 +101,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743424272308</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="indexl">
+      <option name="closed" value="true" />
+      <created>1743424611696</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743424611696</updated>
+    </task>
+    <task id="LOCAL-00006" summary="indexl">
+      <option name="closed" value="true" />
+      <created>1743424745520</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743424745520</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
